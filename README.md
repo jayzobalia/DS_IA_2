@@ -2,4 +2,4 @@
 Contributors - Sahil Sayani, Gaurav Mehta, Jay Zobalia
 
 # About
-A Huffman code is a particular type of optimal prefix code that is commonly used for lossless data compression. Huffman was interested in telecommunication professionals as this coding method can greatly improve the coding efficiency. For a computer scientist or programmer, it is interesting as it is using greedy algorithm and priority queue data structure. Greedy algorithm is an important algorithm, priority queue is an important data structure.
+Huffman coding is a lossless data compression algorithm. The idea is to assign variable-length codes to input characters, lengths of the assigned codes are based on the frequencies of corresponding characters. The most frequent character gets the smallest code and the least frequent character gets the largest code.It classifies as a Greedy Algorithm and uses priority queues as its primary data structure.
